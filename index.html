@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A simple reading shelf for Ruth, Raph, Izzy, and Kids.">
+    <title>Kids Reading</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to readings</a>
+    <header class="site-header">
+      <p class="site-name"><a href="./">Kids Reading</a></p>
+      <nav class="site-nav" aria-label="Reading shelves">
+        <a href="#ruth">Ruth</a>
+        <a href="#raph">Raph</a>
+        <a href="#izzy">Izzy</a>
+        <a href="#kids">Kids</a>
+      </nav>
+    </header>
+    <main id="main">
+      <header class="home-heading">
+        <h1>A little reading shelf.</h1>
+        <p>Choose a shelf, find a story, and settle in.</p>
+      </header>
+      <section class="shelf" id="ruth" aria-labelledby="ruth-heading">
+        <h2 id="ruth-heading">Ruth</h2>
+        <p class="empty-state">No readings yet.</p>
+      </section>
+      <section class="shelf" id="raph" aria-labelledby="raph-heading">
+        <h2 id="raph-heading">Raph</h2>
+        <p class="empty-state">No readings yet.</p>
+      </section>
+      <section class="shelf" id="izzy" aria-labelledby="izzy-heading">
+        <h2 id="izzy-heading">Izzy</h2>
+        <p class="empty-state">No readings yet.</p>
+      </section>
+      <section class="shelf" id="kids" aria-labelledby="kids-heading">
+        <h2 id="kids-heading">Kids</h2>
+        <ul class="story-list">
+          <li><a href="the-secret-city-beneath-the-ice.html">The Secret City Beneath the Ice</a></li>
+          <li><a href="the-basement-world-cup.html">The Basement World Cup</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <p>Made for reading, wherever you like to read.</p>
+    </footer>
+  </body>
+</html>
