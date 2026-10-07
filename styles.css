@@ -177,6 +177,18 @@ article p {
   widows: 3;
 }
 
+.story-illustration {
+  margin: 2rem 0 2.5rem;
+  break-inside: avoid;
+}
+
+.story-illustration img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
 article blockquote {
   margin-inline: 0;
   padding-inline-start: 1.25rem;
