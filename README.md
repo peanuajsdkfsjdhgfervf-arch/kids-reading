@@ -8,8 +8,10 @@ The site uses plain HTML and CSS, with no scripts, external fonts, images, or bu
 
 - [The Secret City Beneath the Ice](the-secret-city-beneath-the-ice.html)
 - [The Basement World Cup](the-basement-world-cup.html)
+- [La Coupe du monde du sous-sol — français](la-coupe-du-monde-du-sous-sol.html)
 
 Both Kids readings contain their complete original text in semantic HTML articles.
+The Basement World Cup is also available in French, with links between the two language versions.
 
 ## GitHub Pages
 
