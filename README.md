@@ -10,6 +10,8 @@ The site uses plain HTML and CSS, with no scripts, external fonts, or build step
 - [Ruth et la ligne de départ invisible — français](ruth-et-la-ligne-de-depart-invisible.html)
 - [Raph and the Unbeatable Team](raph-and-the-unbeatable-team.html)
 - [Raph et l'équipe imbattable — français](raph-et-l-equipe-imbattable.html)
+- [Izzy and the Impossible Stadium](izzy-and-the-impossible-stadium.html)
+- [Izzy et le stade impossible — français](izzy-et-le-stade-impossible.html)
 - [Izzy and the Bus-Stop Face-Off](izzy-and-the-bus-stop-face-off.html)
 - [Izzy et la mise au jeu à l'arrêt d'autobus — français](izzy-et-la-mise-au-jeu-a-l-arret-d-autobus.html)
 - [The Secret City Beneath the Ice](the-secret-city-beneath-the-ice.html)
@@ -22,6 +24,8 @@ Both Kids readings contain their complete original text in semantic HTML article
 The Basement World Cup is also available in French, with links between the two language versions. Separate Illustrated editions preserve the full story text and add an opening scene, a course map, a scoreboard, and the asteroid-saving finale. Both languages share the same black-and-white artwork with localized image descriptions. The original text editions remain available.
 
 The Ruth, Raph, and Izzy shelves each have a short illustrated introduction in English and French, with two scenes of the children interacting. Ruth is thirteen and loves track and field; Raph is twelve and loves soccer; Izzy is ten and loves hockey. The language versions link to each other, and each page links to the other introductions. Raph's historical World Cup scores have FIFA source links in the footer, outside the story.
+
+Izzy and the Impossible Stadium is a short adventure in eight illustrated scenes, available in English and French. Izzy, Ruth, and Raph build a Lego stadium and imagine six sports challenges, with Storm hockey as both goalie and skater, Hornets soccer as striker and goalkeeper, cycling, and basketball. Morning and bedtime Kobo reading frame the story. Both editions share eight original monochrome PNG illustrations based on the supplied character references, with localized alternative text. The original reference photographs are not included in the repository.
 
 ## GitHub Pages
 
