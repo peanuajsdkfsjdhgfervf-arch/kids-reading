@@ -6,6 +6,8 @@ The site uses plain HTML and CSS, with no scripts, external fonts, or build step
 
 ## Readings
 
+- [The Bus With Ten Windows](the-bus-with-ten-windows.html)
+- [L’autobus aux dix fenêtres — français](l-autobus-aux-dix-fenetres.html)
 - [Ruth and the Invisible Starting Line](ruth-and-the-invisible-starting-line.html)
 - [Ruth et la ligne de départ invisible — français](ruth-et-la-ligne-de-depart-invisible.html)
 - [Raph and the Unbeatable Team](raph-and-the-unbeatable-team.html)
@@ -30,6 +32,8 @@ The Ruth, Raph, and Izzy shelves each have a short illustrated introduction in E
 Izzy and the Impossible Stadium is a short adventure in eight illustrated scenes, available in English and French. Izzy, Ruth, and Raph build a Lego stadium and imagine six sports challenges, with Storm hockey as both goalie and skater, Hornets soccer as striker and goalkeeper, cycling, and basketball. Morning and bedtime Kobo reading frame the story. Both editions share eight original monochrome PNG illustrations based on the supplied character references, with localized alternative text. The original reference photographs are not included in the repository.
 
 Izzy and the Midnight Lost-and-Found is a longer adventure in twelve chapters, with 3,927 words of English story text and a complete French translation. Izzy, Raph, Ruth, Adam and Wesley discover a magical railway during a sleepover at Wesley's house, with Nintendo Switch games, Lego, supper, a movie and bedtime Kobo reading. Both editions share twelve original illustrations and have localized image descriptions, language links and chapter navigation. The story includes Wesley's small frame, two ear studs and mohawk bicycle helmet. The original reference photographs are not included in the repository.
+
+The Bus With Ten Windows is a family story in sixteen chapters, with 6,536 words of English story text and a complete French translation. Mimi, Beep, Ruth, Raph and Izzy convert a medium-sized school bus into a camper and spend a year exploring North and Central America. Homeschooling, outdoor adventures, sports, camping, Lego and quiet conversations become part of their shared travel memories. Both editions share sixteen original illustrations, localized image descriptions, language links and chapter navigation. The original reference photographs and character reference sheet are not included in the repository.
 
 ## GitHub Pages
 
