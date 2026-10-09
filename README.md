@@ -44,3 +44,10 @@ Home page: https://peanuajsdkfsjdhgfervf-arch.github.io/kids-reading/
 ## Add a reading
 
 Create an HTML file in the repository root. Include a descriptive page title, one main article heading, and the full text in paragraphs. Link to `styles.css`, and add a link to the reading in the matching section of `index.html`.
+
+## Five People, Four Homes, One Incredible Year
+
+The supplied English and French stories are preserved in full, with sixteen chapters and an epilogue, and two original illustrations per section (34 shared illustrations). Beep is clean-shaven. Web images use compressed JPEG exports; original reference photos remain private.
+
+- [FIVE PEOPLE, FOUR HOMES, ONE INCREDIBLE YEAR](five-people-four-homes-one-incredible-year.html)
+- [CINQ PERSONNES, QUATRE MAISONS, UNE ANNÉE INCROYABLE](cinq-personnes-quatre-maisons-une-annee-incroyable.html)
